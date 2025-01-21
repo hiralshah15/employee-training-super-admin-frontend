@@ -78,7 +78,7 @@ const Login: FC = () => {
         </div>
         <div className="border border-blue-800 p-10 rounded-[14px] bg-red-800">
           <div className="text-[35px] text-[#313D4F]  font-bold leading-[40px] flex justify-center items-center">
-            Login
+            Login Page
           </div>
 
           <div className="text-[16px]  font-normal leading-[24px] text-[#4F4F4F] py-[5px]">
